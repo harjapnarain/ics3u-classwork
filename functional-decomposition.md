@@ -45,5 +45,30 @@ A Basic Programming Concept is the GPS in the car. It tracks your location and h
 
 ## Cookie is too big for glass
 
-How can you fix this problem?
-- 
+How do you fix this problem?
+
+- Break the cookie into pieces
+
+How can you prevent this problem?
+
+- Get smaller cookies
+- Get larger cups
+
+How can this problem be solved with an app?
+
+- The app can tell you where you can find cookies that fit the diameter of your cup or where to find cups that fit the size of your cookies
+
+## People who can't park
+
+How do you fix this problem?
+
+- Ask the driver to park properly
+
+How can you prevent this problem?
+
+- Car companies can make sure to equip every car with parking sensors
+
+How can this problem be solved with a robotic and/or software solution?
+
+- Car manufactures can make a system in all of their cars where with sensors and cameras, the car can detect parking spaces and alert the driver if their car is not parked right.
+
